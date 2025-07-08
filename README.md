@@ -1,4 +1,4 @@
-# 🌐 Ubuntu Networking Tool (CLI)
+# 🌐 Ubuntu Networking Tool 
 
 Easy to help users quickly access essential networking information on Ubuntu/Linux systems.
 
